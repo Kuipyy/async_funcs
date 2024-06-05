@@ -1,0 +1,17 @@
+{
+    "name": "asyncfunc.js",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+      "axios": "^0.21.1",
+      "node-fetch": "^2.6.1",
+      "slugify": "^1.5.3"
+    }
+  }
